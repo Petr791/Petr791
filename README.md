@@ -2,7 +2,7 @@
 
 ## Приветствую на моей странице!
 ---
-Меня зовут Пётр. Я web-разработчик.
+Меня зовут Пётр.Web-разработчика это моё хобби.
 ---
 ### Статистика на GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Petr791&show_icons=true&hide=prs,issues,contribs&theme=dark)
