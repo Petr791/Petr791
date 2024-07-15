@@ -21,7 +21,11 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge)  
-![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morphIsmail&layout=compact&theme=dark)
+
+
 
 <!--
 **Petr791/Petr791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
