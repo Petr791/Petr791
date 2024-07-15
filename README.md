@@ -5,7 +5,7 @@
 Меня зовут Пётр. Я web-разрабочтик сайтов.
 ---
 ### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Petr791&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
 
 <!--
