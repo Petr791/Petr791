@@ -1,4 +1,6 @@
-## Hi there 👋
+## Приветствую на моей странице!
+
+Меня зовут Пётр. Я web-разрабочтик сайтов.
 
 <!--
 **Petr791/Petr791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
