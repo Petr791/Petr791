@@ -1,4 +1,5 @@
 [IT](https://github.com/morphIsmail/morphIsmail/blob/main/assets/header.jpg)
+![web-developer](https://github.com/morphIsmail/morphIsmail/blob/main/assets/header.jpg)
 
 ## Приветствую на моей странице!
 ---
