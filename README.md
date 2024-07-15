@@ -1,6 +1,12 @@
-## Приветствую на моей странице!
+[IT](https://github.com/morphIsmail/morphIsmail/blob/main/assets/header.jpg)
 
+## Приветствую на моей странице!
+---
 Меня зовут Пётр. Я web-разрабочтик сайтов.
+---
+### Статистика на GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=morphIsmail&show_icons=true&hide=prs,issues,contribs&theme=dark)
+
 
 <!--
 **Petr791/Petr791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
