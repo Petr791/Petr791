@@ -21,8 +21,6 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge)  
-![Blender](https://img.shields.io/badge/-Blender-333?style=for-the-badge&logo=Blender)
-![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 
 <!--
